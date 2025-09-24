@@ -9,7 +9,8 @@ It’s especially good for math, scientific papers, and long documents because i
 Note: The UI is very bare bones, as my main focus was to get familiar with Elixir and Phoenix.
 
 Example usage:
-<img width="1203" height="584" alt="image" src="https://github.com/user-attachments/assets/91aa9545-b3b2-447e-bcdb-f396746c3bc8" />
+<img width="1332" height="609" alt="image" src="https://github.com/user-attachments/assets/bea4352c-d394-46b9-9fb5-17de2c70d725" />
+
 -> This prompt will then be sent to the AI, which will generate a LaTeX style string such as this: 
 ```latex
 \documentclass[11pt]{article}
@@ -52,10 +53,9 @@ This will be achieved via a poolboy worker as specified in the Application.ex
   end
 ```
 And via the texlive system command run on the server, this would be the resulting pdf:
-<img width="1096" height="1269" alt="image" src="https://github.com/user-attachments/assets/934e72c3-1f00-4c16-a0a3-7a3e0e061461" />
-<img width="1120" height="1327" alt="image" src="https://github.com/user-attachments/assets/51c65f59-9058-4845-8e1c-7e95183c0287" />
-<img width="1067" height="1254" alt="image" src="https://github.com/user-attachments/assets/ada7f1ba-e0ff-401d-b4f2-fb5ae369734e" />
-
+<img width="1248" height="1329" alt="image" src="https://github.com/user-attachments/assets/dbf827ea-6a45-4850-8989-fdae854d7a7b" />
+<img width="1231" height="1325" alt="image" src="https://github.com/user-attachments/assets/3d1b950d-25a3-4971-8bef-fa301c5a07ab" />
+You get the gist
 
 ## Usefulness
 
